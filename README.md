@@ -66,7 +66,7 @@ Enter : <input type="text" id="t2"/>
 
 </body>
 
-</html>3" onClick="b3()">
+</html>3"
 
 </form>
 
